@@ -4,7 +4,7 @@ This repository contains the code for a simple countdown webpage that ticks down
 
 ## Overview
 
-The countdown is set to end on 10th March 2024 at 12:00 AM. The page is styled with a fitting background image and displays the remaining time in days, hours, minutes, and seconds.
+The countdown is set to end on 11th March 2024 at 12:00 AM. The page is styled with a fitting background image and displays the remaining time in days, hours, minutes, and seconds.
 
 ## Features
 
