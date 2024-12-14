@@ -1,10 +1,10 @@
 # Ramadan 2024 Countdown Page
 
-This repository contains the code for a simple countdown webpage that ticks down to the start of Ramadan 2024.
+This repository contains the code for a simple countdown webpage that ticks down to the start of Ramadan 2025.
 
 ## Overview
 
-The countdown is set to end on 11th March 2024 at 12:00 AM. The page is styled with a fitting background image and displays the remaining time in days, hours, minutes, and seconds.
+The countdown is set to end on 2025/2/28 at 12:00 AM. The page is styled with a fitting background image and displays the remaining time in days, hours, minutes, and seconds.
 
 ## Features
 
