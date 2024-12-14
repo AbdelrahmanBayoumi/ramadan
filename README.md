@@ -1,4 +1,4 @@
-# Ramadan 2024 Countdown Page
+# Ramadan 2025 Countdown Page
 
 This repository contains the code for a simple countdown webpage that ticks down to the start of Ramadan 2025.
 
